@@ -1,16 +1,42 @@
-# flappy_bird
+# Flappy Brid Game
+This is a Flappy Bird game built in Flutter using the Flame engine.
 
-A new Flutter project.
+### Table of Contents
+- Installation
+- Running the App
 
-## Getting Started
+### Installation
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
+    
+    ```bash
+    git clone https://github.com/nguyenphongn97/zens_interview.git
+    ```
+    
+2. Navigate to the project directory:
+    
+    ```bash
+    cd jokee_app
+    ```
+    
+3. Install dependencies:
+    
+    ```bash
+    flutter pub get
+    ```
+    
 
-A few resources to get you started if this is your first Flutter project:
+### Running the App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Ensure you have a connected device or an emulator running.
+2. Run the app using:
+    
+    ```bash
+    flutter run
+    ```
+    
+3. If you want to run it in release mode:
+    
+    ```bash
+    flutter run --release
+    ```
